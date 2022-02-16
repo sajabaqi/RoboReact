@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RoboReact/static/css/main.1f323d74.chunk.css",
+    "main.js": "/RoboReact/static/js/main.32007151.chunk.js",
+    "main.js.map": "/RoboReact/static/js/main.32007151.chunk.js.map",
+    "runtime~main.js": "/RoboReact/static/js/runtime~main.b0320569.js",
+    "runtime~main.js.map": "/RoboReact/static/js/runtime~main.b0320569.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/RoboReact/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.9858653f.chunk.js": "/RoboReact/static/js/2.9858653f.chunk.js",
+    "static/js/2.9858653f.chunk.js.map": "/RoboReact/static/js/2.9858653f.chunk.js.map",
+    "static/js/3.7fa365a8.chunk.js": "/RoboReact/static/js/3.7fa365a8.chunk.js",
+    "static/js/3.7fa365a8.chunk.js.map": "/RoboReact/static/js/3.7fa365a8.chunk.js.map",
+    "index.html": "/RoboReact/index.html",
+    "precache-manifest.90e5d439b469a12b22ae85774abd716b.js": "/RoboReact/precache-manifest.90e5d439b469a12b22ae85774abd716b.js",
+    "service-worker.js": "/RoboReact/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/RoboReact/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.1f323d74.chunk.css.map": "/RoboReact/static/css/main.1f323d74.chunk.css.map"
+  }
+}
