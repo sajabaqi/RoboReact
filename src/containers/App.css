@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    src: url('http://fonts.cdnfonts.com/css/sega-logo-font');
+        font-style: normal;
+        font-weight: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:wght@300;600&family=Rowdies:wght@700&family=Supermercado+One&display=swap');
+h1{
+    font-family: 'Allura', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 900;
+    color: #0ccac4;
+}
